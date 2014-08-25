@@ -3,3 +3,7 @@ arm-2008q3
 *.tar.bz2
 *.pdf
 
+template/build/
+*.img
+*.list
+*.map
